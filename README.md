@@ -44,7 +44,7 @@ board.start_game()
 
 ## Word list
 
-The word list is the CSW15 word list. On initial run, PyWordle attempst to fetch this file and saves it locally. Each PyWordle instance will filter though this text file to generate a list of valid words. Do note that there is no preference to "regular" words, any valid word can be chosen as the secret answer.
+The word list is the CSW15 word list. On initial run, PyWordle attempts to fetch this file and saves it locally. Each PyWordle instance will filter though this text file to generate a list of valid words. Do note that there is no preference to "regular" words, any valid word can be chosen as the secret answer.
 
 ## Renderers
 
